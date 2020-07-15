@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="logo">Logo</string>
+    <string name="enter_your_mail_id">Enter your Mail ID</string>
+    <string name="password">Password</string>
+    <string name="log_in">log in</string>
+    <string name="don_t_have_an_account_click_here">Don\'t have an account? CLICK HERE</string>
+    <string name="search">search</string>
+    <string name="bookmarked_your_pic">"saved your post"</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save_settings">Save settings</string>
+    <string name="post">Post</string>
+    <string name="post_your_image">post your image</string>
+    <string name="add_description">Add Description</string>
+    <string name="home">home</string>
+    <string name="notifications">notifications</string>
+    <string name="account">account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="to_be_retrieved">to be retrieved</string>
+    <string name="blog_post_date">blog post date</string>
+    <string name="username">Username</string>
+    <string name="bookmarks">bookmarks</string>
+    <string name="_0">0</string>
+    <string name="this_is_an_image">This is an image</string>
+</resources>
