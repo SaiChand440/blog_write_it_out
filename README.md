@@ -20,7 +20,7 @@ The main aim of this app is to build a social blogging platform which does not p
 4) Click on the bookmark option on the blog to save it, you can tap on the bookmark option on the bottom nagivation bar to checkout the saved bookmarks
 # User Interface of the mobile Application
 
-1)
+1) Registration page
 
 
 ![image](https://user-images.githubusercontent.com/59303987/87637126-66477100-c75f-11ea-88c0-a336531079bc.png)
@@ -28,7 +28,7 @@ The main aim of this app is to build a social blogging platform which does not p
 
 
 
-2) 
+2) Setup screen
 
 
 ![image](https://user-images.githubusercontent.com/59303987/87637194-81b27c00-c75f-11ea-8aca-e20dbe2fc31e.png)
@@ -36,7 +36,7 @@ The main aim of this app is to build a social blogging platform which does not p
 
 
 
-3) 
+3) Home screen
 
 
 ![image](https://user-images.githubusercontent.com/59303987/87637421-cccc8f00-c75f-11ea-9e31-022b2ad71a75.png)
@@ -44,7 +44,7 @@ The main aim of this app is to build a social blogging platform which does not p
 
 
 
-4) 
+4) New blog post screen
 
 
 ![image](https://user-images.githubusercontent.com/59303987/87637495-f2f22f00-c75f-11ea-83a4-4e03ea98ecd1.png)
@@ -52,7 +52,7 @@ The main aim of this app is to build a social blogging platform which does not p
 
 
 
-5) 
+5) Login screen
 
 
 ![image](https://user-images.githubusercontent.com/59303987/87637565-11582a80-c760-11ea-8947-e2e8ffb1ee4c.png)
