@@ -16,6 +16,6 @@ The main aim of this app is to build a social blogging platform which does not p
 1) Register by creating a new account with the gmail id and password
 2) Create an account by uploading any image and username
 3) Post mini blog by tapping on the floating action button
-``` NOTE: A post cannot be created without a image and description below 150 letters ```
+``` NOTE: A post cannot be created without a image and description. The description should be below 150 letters ```
 4) Click on the bookmark option on the blog to save it, you can tap on the bookmark option on the bottom nagivation bar to checkout the saved bookmarks
 
